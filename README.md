@@ -1,2 +1,2 @@
-# funkie-chromedriver
-Chromedriver for funkie
+# funkie-selenium
+Selenium for funkie

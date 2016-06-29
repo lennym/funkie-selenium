@@ -1,0 +1,22 @@
+{
+  "name": "funkie-selenium",
+  "version": "0.0.0",
+  "description": "Selenium for funkie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lennym/funkie-selenium.git"
+  },
+  "author": "Leonard Martin <hello@lennym.co.uk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lennym/funkie-selenium/issues"
+  },
+  "homepage": "https://github.com/lennym/funkie-selenium#readme",
+  "dependencies": {
+    "selenium-standalone": "^5.3.1"
+  }
+}
